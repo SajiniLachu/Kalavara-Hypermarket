@@ -2,7 +2,6 @@ html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
-
 .background_img {
   width: 90%;
   margin: 10
@@ -49,7 +48,7 @@ html {
   margin-bottom: 50px;
 }
 
-#contct_info,.scrolling_text {
+#contct_info,.scrolling_text, .market_name {
   background:#8C8484;
   color: white;
 }
